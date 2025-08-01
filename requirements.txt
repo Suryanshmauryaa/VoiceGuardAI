@@ -7,4 +7,4 @@ soundfile
 matplotlib
 pandas
 joblib
-sounddevice==0.4.6
+soundfile
