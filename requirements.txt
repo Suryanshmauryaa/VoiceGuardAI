@@ -8,3 +8,4 @@ matplotlib
 pandas
 joblib
 soundfile
+tensorflow==2.13.0
