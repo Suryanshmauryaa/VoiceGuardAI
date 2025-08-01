@@ -1,5 +1,5 @@
 streamlit==1.28.2
-tensorflow==2.12.0
+tensorflow==2.16.1
 numpy==1.23.5
 scipy==1.10.1
 sounddevice==0.5.2
